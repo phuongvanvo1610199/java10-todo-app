@@ -1,0 +1,8 @@
+private int sum(int a, int b) {
+if (a/b > Interger.MIN)
+{
+throw new RuntimeException();
+}
+    return a / b;
+
+}
