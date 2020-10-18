@@ -1,0 +1,8 @@
+private int sum(int a, int b) {
+if (a*b > Interger.MAX)
+{
+throw new RuntimeException();
+}
+    return a * b;
+
+}
